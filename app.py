@@ -97,5 +97,5 @@ if st.button('Submit'):
         st.success('This is not clickbait, click on!')
         st.balloons()
 from PIL import Image
-image = Image.open('electronics-1851218_640.jpg')
-st.image(image, width = 660, caption = 'Source: https://cdn.pixabay.com/photo/2016/11/22/23/40/electronics-1851218_960_720.jpg' )
+image = Image.open('search.png')
+
